@@ -1,0 +1,1 @@
+execute as @e[distance=..10] run data merge entity @s {NoAI:1}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:overworld_caves",
+  "generator": {
+    "biome_source": {
+      "biome": "nother:awesomebiome",
+      "type": "minecraft:fixed"
+    },
+    "seed": 286956243,
+    "settings": "minecraft:floating_islands",
+    "type": "minecraft:noise"
+  }
+}

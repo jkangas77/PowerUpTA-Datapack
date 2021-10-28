@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:sheep] run summon arrow ~ ~10 ~

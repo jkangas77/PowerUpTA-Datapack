@@ -1,5 +1,6 @@
 {
     "values": [
-        "custom_namespace:main2"
+        "custom_namespace:main2",
+        "mob_spawn:setup"
     ]
 }

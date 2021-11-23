@@ -1,0 +1,1 @@
+execute as @e[distance=..40,type=!player] run data modify entity @s Fire set value 1000
